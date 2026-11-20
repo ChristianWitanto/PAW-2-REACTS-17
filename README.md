@@ -8,3 +8,4 @@ npm create vite@latest    https://vite.dev/guide/
 npm install tailwindcss @tailwindcss/vite https://tailwindcss.com/docs/installation/using-vite
 npm install lucide-react  https://lucide.dev/guide/react/getting-started
 npm i -D daisyui@latest   https://daisyui.com/docs/install/ 
+npm i react-router https://reactrouter.com/start/data/installation 
